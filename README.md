@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=Profile+Visits)
 	
-## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
